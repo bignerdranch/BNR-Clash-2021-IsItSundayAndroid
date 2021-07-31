@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IsItSunday</string>
+
+    <string name="is_it_sunday">Is it Sunday?</string>
+    <string name="cfa_icon_content_description">chick-fil-a icon</string>
+    <string name="sunday_button_cta">CHECK IF IT\'S SUNDAY</string>
+
+    <string name="yes_its_sunday">Yes\n:(\nno chick fil a\nuwu</string>
+    <string name="no_its_not">No</string>
+    <string name="empty_string"/>
+</resources>
